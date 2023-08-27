@@ -1,1 +1,1 @@
-Basic Pdf convertor , Document convertor , QRcode generator using Python
+Simple Pdf convertor , Document convertor , QRcode generator using Python
